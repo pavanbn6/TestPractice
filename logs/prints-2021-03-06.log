@@ -1,0 +1,20 @@
+17:33:22.953 [main] INFO  TestCases.Main - 
+TestCase3 : Verify the Random Number is between 100 and 500:	Pass
+42	480
+
+17:33:22.960 [main] INFO  TestCases.Main - 
+TestCase3 : Verify the Random Number is between 100 and 500:	Pass
+43	105
+
+17:33:22.960 [main] INFO  TestCases.Main - 
+TestCase3 : Verify the Random Number is between 100 and 500:	Pass
+44	423
+
+17:33:22.960 [main] INFO  TestCases.Main - 
+TestCase3 : Verify the Random Number is between 100 and 500:	Pass
+45	202
+
+17:33:22.960 [main] INFO  TestCases.Main - 
+TestCase3 : Verify the Random Number is between 100 and 500:	Pass
+46	308
+
